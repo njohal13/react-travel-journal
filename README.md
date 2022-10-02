@@ -1,4 +1,7 @@
-# React Travel Journal<img width="755" alt="Screen Shot 2022-09-17 at 1 51 10 PM" src="https://user-images.githubusercontent.com/98681977/190875999-2d7cb28c-8502-4bfe-9802-4ebcaf9d0966.png">
+# React Travel Journal
+ - A responsive travel journal where the components are made with create-react-app, and styled with css
+
+<img width="755" alt="Screen Shot 2022-09-17 at 1 51 10 PM" src="https://user-images.githubusercontent.com/98681977/190875999-2d7cb28c-8502-4bfe-9802-4ebcaf9d0966.png">
 
 
 Quick start:
